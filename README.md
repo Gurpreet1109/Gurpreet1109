@@ -1,17 +1,16 @@
-👋 Hi, I’m Gurpreet Singh — a passionate Full Stack Web Developer dedicated to crafting robust and scalable web applications.
+# 👋 Hi, I'm Gurpreet Singh
 
-👀 My current focus is mastering the MERN stack (MongoDB, Express.js, React, Node.js) to build efficient, high-performance solutions from end to end.
+🚀 Full Stack Developer passionate about building scalable, user-focused web applications and solving real-world problems through technology.
 
-🌱 Actively expanding my skills through hands-on projects, continuous learning, and exploring industry best practices to stay at the forefront of web development.
+💻 Skilled in JavaScript, React.js, Node.js, Express.js, MongoDB, and Java, with hands-on experience developing modern web applications, REST APIs, authentication systems, and database-driven solutions.
 
-💞️ I’m eager to collaborate on real-world projects that challenge me and contribute meaningful value to users and teams alike.
+🌱 Continuously learning and improving through practical projects, exploring industry best practices, and expanding my expertise across the full software development lifecycle.
 
-📫 Feel free to connect with me on LinkedIn: linkedin.com/in/gurpreet1109 — let’s build and innovate together!
+🎯 Currently focused on mastering Full Stack Development, cloud technologies, deployment, and system design to build production-ready applications from concept to deployment.
 
-😄 Pronouns: He/Him
+🤝 Open to Software Engineer, Full Stack Developer, Frontend Developer, and Backend Developer opportunities, as well as collaborations on impactful projects.
 
-⚡ Fun fact: I thrive on turning innovative ideas into functional realities by building everything from the ground up.
-<!---
-Gurpreet1109/Gurpreet1109 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Connect with me:
+LinkedIn: linkedin.com/in/gurpreet1109
+
+⚡ I enjoy transforming ideas into reliable, scalable, and meaningful digital products.
